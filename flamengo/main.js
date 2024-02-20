@@ -1,1 +1,1 @@
-alert("Warnings")
+alert("Warning")
